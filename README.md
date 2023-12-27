@@ -45,4 +45,4 @@ Udemy (Web Development) by Angela Yu : - Full Stack Developer
 - Minting NFTs and Building an NFT Marketplace like OpenSea
 - Optional Module : Ask Angela Anything
 - Next Steps 
-- 
+  
